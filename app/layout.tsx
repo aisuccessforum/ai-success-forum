@@ -6,7 +6,7 @@ import siteData from '@/data/site.json';
 
 export const metadata: Metadata = {
   title: {
-    default: `${siteData.name}. ${siteData.tagline}`,
+    default: `${siteData.name} | ${siteData.tagline}`,
     template: `%s | ${siteData.name}`,
   },
   description: siteData.description,
