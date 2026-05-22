@@ -1,0 +1,10 @@
+# Cloudflare Pages configuration
+# This file is optional — settings can also be configured in the dashboard
+
+[build]
+  command = "npm run build"
+  output_directory = "out"
+
+[build.environment]
+  NODE_VERSION = "18"
+  NPM_VERSION = "9"

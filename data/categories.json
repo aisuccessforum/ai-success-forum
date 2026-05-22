@@ -1,0 +1,58 @@
+[
+  {
+    "slug": "ai-tools",
+    "name": "AI Tools",
+    "description": "Reviews, comparisons, and tutorials on the best AI software — from ChatGPT to Midjourney to Claude.",
+    "icon": "🤖",
+    "color": "text-cyan-400",
+    "accentColor": "#00FFF0"
+  },
+  {
+    "slug": "career-growth",
+    "name": "Career Growth",
+    "description": "Use AI to level up your career, land better jobs, negotiate higher salaries, and future-proof your skills.",
+    "icon": "🚀",
+    "color": "text-blue-400",
+    "accentColor": "#00D4FF"
+  },
+  {
+    "slug": "business-income",
+    "name": "Business & Income",
+    "description": "Start and scale online businesses, freelance services, and income streams powered by AI.",
+    "icon": "💰",
+    "color": "text-green-400",
+    "accentColor": "#00FF88"
+  },
+  {
+    "slug": "productivity",
+    "name": "Productivity",
+    "description": "AI-powered systems, workflows, and tools to get more done in less time.",
+    "icon": "⚡",
+    "color": "text-yellow-400",
+    "accentColor": "#FFD700"
+  },
+  {
+    "slug": "motivation",
+    "name": "Motivation",
+    "description": "Mindset, discipline, and success stories from people thriving in the AI era.",
+    "icon": "🔥",
+    "color": "text-orange-400",
+    "accentColor": "#FF6B00"
+  },
+  {
+    "slug": "courses",
+    "name": "Courses",
+    "description": "The best online courses to learn AI, programming, marketing, and business skills.",
+    "icon": "🎓",
+    "color": "text-purple-400",
+    "accentColor": "#7B2FFF"
+  },
+  {
+    "slug": "laptops",
+    "name": "Laptops",
+    "description": "Top laptop recommendations for AI developers, students, and power users.",
+    "icon": "💻",
+    "color": "text-pink-400",
+    "accentColor": "#FF2DD4"
+  }
+]

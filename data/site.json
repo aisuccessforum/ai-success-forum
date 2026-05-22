@@ -1,0 +1,20 @@
+{
+  "name": "AI Success Forum",
+  "tagline": "Master AI. Build Income. Shape Your Future.",
+  "description": "Your hub for AI tools, career strategies, business ideas, and productivity systems to thrive in the age of artificial intelligence.",
+  "url": "https://aisuccessforum.online",
+  "author": "AI Success Forum Team",
+  "email": "aisuccessforum@gmail.com",
+  "social": {
+    "twitter": "https://twitter.com/aisuccessforum",
+    "youtube": "https://youtube.com/@aisuccessforum",
+    "linkedin": "https://linkedin.com/company/aisuccessforum",
+    "instagram": "https://instagram.com/aisuccessforum"
+  },
+  "newsletter": {
+    "heading": "Stay Ahead of the AI Curve",
+    "subheading": "Weekly insights on AI tools, income strategies, and productivity hacks — delivered free.",
+    "placeholder": "Enter your email address",
+    "cta": "Get Free Access"
+  }
+}
