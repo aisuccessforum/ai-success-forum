@@ -2,7 +2,7 @@
 title: How to Use ChatGPT to Land a Better Job in 2025
 description: A step-by-step guide to using AI to write your resume, craft cover
   letters, prep for interviews, and negotiate a higher salary.
-date: 2025-01-20
+date: 2026-06-07
 author: AI Success Forum Team
 category: career-growth
 tags:
