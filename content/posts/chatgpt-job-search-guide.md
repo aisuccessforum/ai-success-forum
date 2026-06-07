@@ -13,7 +13,7 @@ tags:
   - interview
   - salary-negotiation
 featured: true
-coverImage: ""
+coverImage: /images/posts/chatgpt-image.png
 affiliate:
   - chatgpt-plus
   - grammarly-premium
