@@ -6,7 +6,7 @@ export async function onRequest(context) {
 
   if (!code) {
     // Redirect to GitHub OAuth
-    const authUrl = `https://github.com/login/oauth/authorize?client_id=${env.GITHUB_CLIENT_ID}&scope=repo,user&state=github`;
+    const authUrl = `https://github.com/login/oauth/authorize?client_id=${env.GITHUB_CLIENT_ID}&scope=repo&state=github`;
     return Response.redirect(authUrl, 302);
   }
 
