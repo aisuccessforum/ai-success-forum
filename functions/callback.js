@@ -2,11 +2,15 @@ export async function onRequest(context) {
   const { request, env } = context;
   const url = new URL(request.url);
   const code = url.searchParams.get('code');
+  const provider = 'github';
 
   if (!code) {
-    return new Response('Missing code', { status: 400 });
+    // Redirect to GitHub OAuth
+    const authUrl = `https://github.com/login/oauth/authorize?client_id=${env.GITHUB_CLIENT_ID}&scope=repo,user&state=github`;
+    return Response.redirect(authUrl, 302);
   }
 
+  // Exchange code for token
   const response = await fetch('https://github.com/login/oauth/access_token', {
     method: 'POST',
     headers: {
@@ -22,31 +26,28 @@ export async function onRequest(context) {
 
   const data = await response.json();
   const token = data.access_token;
-  const provider = 'github';
 
   if (!token) {
-    return new Response('Auth failed', { status: 401 });
+    return new Response('Authentication failed', { status: 401 });
   }
 
-  const html = `
-<!DOCTYPE html>
+  const content = JSON.stringify({ token, provider });
+  const html = `<!DOCTYPE html>
 <html>
-<head><title>Authenticating...</title></head>
 <body>
 <script>
-  (function() {
-    function receiveMessage(e) {
-      console.log("receiveMessage %o", e);
-      window.opener.postMessage(
-        'authorization:${provider}:success:${JSON.stringify({ token, provider })}',
-        e.origin
-      );
-    }
-    window.addEventListener("message", receiveMessage, false);
-    window.opener.postMessage("authorizing:${provider}", "*");
-  })()
+(function() {
+  function receiveMessage(e) {
+    window.opener.postMessage(
+      'authorization:${provider}:success:${content}',
+      e.origin
+    );
+  }
+  window.addEventListener("message", receiveMessage, false);
+  window.opener.postMessage("authorizing:${provider}", "*");
+})();
 </script>
-<p>Authenticating, please wait...</p>
+<p>Authenticating...</p>
 </body>
 </html>`;
 
