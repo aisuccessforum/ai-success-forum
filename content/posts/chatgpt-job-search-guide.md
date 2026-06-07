@@ -1,13 +1,23 @@
 ---
-title: "How to Use ChatGPT to Land a Better Job in 2025"
-description: "A step-by-step guide to using AI to write your resume, craft cover letters, prep for interviews, and negotiate a higher salary."
-date: "2025-01-20"
-author: "AI Success Forum Team"
-category: "career-growth"
-tags: ["chatgpt", "resume", "job-search", "career", "interview", "salary-negotiation"]
+title: How to Use ChatGPT to Land a Better Job in 2025
+description: A step-by-step guide to using AI to write your resume, craft cover
+  letters, prep for interviews, and negotiate a higher salary.
+date: 2025-01-20
+author: AI Success Forum Team
+category: career-growth
+tags:
+  - chatgpt
+  - resume
+  - job-search
+  - career
+  - interview
+  - salary-negotiation
 featured: true
-coverImage: "/images/posts/chatgpt-job-search.jpg"
-affiliate: ["chatgpt-plus", "grammarly-premium"]
+coverImage: ""
+affiliate:
+  - chatgpt-plus
+  - grammarly-premium
+draft: true
 ---
 
 The job market has changed. Candidates who use AI tools in their job search are getting more interviews, better offers, and faster results.
