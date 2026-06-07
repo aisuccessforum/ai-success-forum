@@ -19,7 +19,7 @@ affiliate:
   - chatgpt-plus
   - claude-pro
   - notion-ai
-draft: true
+draft: false
 ---
 
 If you're not using AI tools to boost your productivity in 2025, you're working harder than you need to.
