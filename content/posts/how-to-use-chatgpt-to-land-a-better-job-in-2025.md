@@ -17,7 +17,7 @@ coverImage: /images/posts/chatgpt-image.png
 affiliate:
   - chatgpt-plus
   - grammarly-premium
-draft: true
+draft: false
 ---
 
 The job market has changed. Candidates who use AI tools in their job search are getting more interviews, better offers, and faster results.
