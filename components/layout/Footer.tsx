@@ -86,10 +86,10 @@ export function Footer() {
             <h4 className="font-display text-xs font-semibold text-neon-blue uppercase tracking-widest mb-4">Legal</h4>
             <ul className="space-y-2">
               {[
-                { label: 'Privacy Policy', href: '/privacy' },
-                { label: 'Terms of Service', href: '/terms' },
+                { label: 'Privacy Policy', href: '/privacy-policy' },
+                { label: 'Terms of Service', href: '/terms-of-service' },
                 { label: 'Affiliate Disclosure', href: '/affiliate-disclosure' },
-                { label: 'Cookie Policy', href: '/cookies' },
+                { label: 'Cookie Policy', href: '/cookie-policy' },
               ].map((l) => (
                 <li key={l.href}>
                   <Link href={l.href} className="text-xs text-light-200/50 hover:text-neon-blue transition-colors">
