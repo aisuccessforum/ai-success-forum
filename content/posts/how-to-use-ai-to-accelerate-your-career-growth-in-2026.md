@@ -10,7 +10,7 @@ tags:
   - career growth AI tools productivity professional development skill building
 featured: true
 coverImage: /images/posts/career-acceleration.png
-draft: true
+draft: false
 ---
 # How to Use AI to Accelerate Your Career Growth in 2025
 
