@@ -1,14 +1,25 @@
 ---
-title: "10 Best AI Tools for Productivity in 2025 (Ranked & Reviewed)"
-description: "The definitive guide to the best AI tools that will save you hours every week — from writing and research to automation and project management."
-date: "2025-01-15"
-updated: "2025-02-01"
-author: "AI Success Forum Team"
-category: "ai-tools"
-tags: ["chatgpt", "claude", "notion", "productivity", "ai-writing", "automation"]
+title: 10 Best AI Tools for Productivity in 2025 (Ranked & Reviewed)
+description: The definitive guide to the best AI tools that will save you hours
+  every week — from writing and research to automation and project management.
+date: 2026-06-07
+updated: ""
+author: AI Success Forum Team
+category: ai-tools
+tags:
+  - chatgpt
+  - claude
+  - notion
+  - productivity
+  - ai-writing
+  - automation
 featured: true
-coverImage: "/images/posts/best-ai-tools-2025.jpg"
-affiliate: ["chatgpt-plus", "claude-pro", "notion-ai"]
+coverImage: /images/posts/ai-tools.png
+affiliate:
+  - chatgpt-plus
+  - claude-pro
+  - notion-ai
+draft: false
 ---
 
 If you're not using AI tools to boost your productivity in 2025, you're working harder than you need to.

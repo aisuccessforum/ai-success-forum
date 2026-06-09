@@ -18,7 +18,7 @@ affiliate:
   - chatgpt-plus
   - grammarly-premium
   - hostinger
-draft: true
+draft: false
 ---
 The internet is full of people making real money with AI tools right now. Not get-rich-quick schemes. Actual income from real services people need.
 
