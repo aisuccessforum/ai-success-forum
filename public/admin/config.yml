@@ -8,6 +8,12 @@ backend:
 media_folder: public/images/posts
 public_folder: /images/posts
 
+media_library:
+  name: cloudinary
+  config:
+    cloud_name: dtryodpcq
+    api_key: 538344419198733
+
 collections:
   # ── ARTICLES ──────────────────────────────────────────────
   - name: posts
