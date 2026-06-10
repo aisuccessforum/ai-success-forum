@@ -14,7 +14,7 @@ tags:
   - sql
 featured: true
 coverImage: https://res.cloudinary.com/dtryodpcq/image/upload/v1781111091/2_rubeo2.png
-draft: true
+draft: false
 ---
 The data analytics landscape is moving faster than ever before. If you are still writing every single SQL query from scratch or manually building every dashboard tile, you are spending time on repetitive tasks that could be automated in seconds. Today, the role of an analyst is shifting from data gatekeeper to strategic partner. 
 
