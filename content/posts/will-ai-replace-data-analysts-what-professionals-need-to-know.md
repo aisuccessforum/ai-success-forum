@@ -11,7 +11,7 @@ tags:
   - ai jobs
 featured: true
 coverImage: https://res.cloudinary.com/dtryodpcq/image/upload/v1781183105/19_u4lnmb.png
-draft: true
+draft: false
 ---
 
 
