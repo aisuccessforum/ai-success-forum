@@ -11,7 +11,7 @@ tags:
   - marketing
 featured: false
 coverImage: https://res.cloudinary.com/dtryodpcq/image/upload/v1781164922/10_ysg8dh.png
-draft: true
+draft: false
 ---
 Video is no longer optional for marketing teams. It is the highest-performing content format across every major platform, and the demand for fresh video content has never been higher. The problem is that traditional video production is expensive, slow, and resource-heavy.
 
