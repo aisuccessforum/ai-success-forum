@@ -12,7 +12,7 @@ tags:
   - upskilling
 featured: true
 coverImage: https://res.cloudinary.com/dtryodpcq/image/upload/v1781182429/17_cuepsk.png
-draft: true
+draft: false
 ---
 
 
