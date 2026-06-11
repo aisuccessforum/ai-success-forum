@@ -10,7 +10,7 @@ tags:
   - small business ai
 featured: false
 coverImage: https://res.cloudinary.com/dtryodpcq/image/upload/v1781165231/11_s7vcqt.png
-draft: true
+draft: false
 ---
 Running a small business in 2026 means competing with larger companies that have bigger teams, bigger budgets, and more resources. The good news is that the best AI tools for small business owners have leveled the playing field in a way that was not possible even two years ago.
 
