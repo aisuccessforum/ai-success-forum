@@ -11,7 +11,7 @@ tags:
   - career growth
 featured: true
 coverImage: https://res.cloudinary.com/dtryodpcq/image/upload/v1781165902/13_njzbjr.png
-draft: true
+draft: false
 ---
 The job market in 2026 is more competitive than ever. Hundreds of applicants chase the same roles, and most resumes never reach a human eye before being filtered out by an applicant tracking system. If your resume is not optimized, formatted correctly, and tailored to each specific job description, your chances of landing an interview drop dramatically before anyone even reads your name.
 
