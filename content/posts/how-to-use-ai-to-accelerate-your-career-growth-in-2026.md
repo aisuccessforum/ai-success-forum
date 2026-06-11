@@ -13,7 +13,7 @@ tags:
   - productivity
 featured: false
 coverImage: https://res.cloudinary.com/dtryodpcq/image/upload/v1781182272/16_ubhne8.png
-draft: true
+draft: false
 ---
 
 If you are not using AI to grow your career right now, you are already falling behind. That is not meant to scare you. It is meant to wake you up.
