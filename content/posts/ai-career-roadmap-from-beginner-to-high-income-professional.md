@@ -11,7 +11,7 @@ tags:
   - career planning
 featured: true
 coverImage: https://res.cloudinary.com/dtryodpcq/image/upload/v1781183421/18_z4ncdu.png
-draft: true
+draft: false
 ---
 
 
