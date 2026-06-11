@@ -10,7 +10,7 @@ tags:
   - perplexity
 featured: false
 coverImage: https://res.cloudinary.com/dtryodpcq/image/upload/v1781165531/12_j5cp4q.png
-draft: true
+draft: false
 ---
 The way people search for information is changing faster than at any point since Google became a verb. For over two decades, Google Search has been the undisputed gateway to the internet. But Perplexity AI has arrived with a fundamentally different approach to answering questions, and the comparison between the two reveals something important about where search is heading.
 
