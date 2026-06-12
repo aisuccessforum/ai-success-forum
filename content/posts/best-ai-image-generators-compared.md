@@ -2,7 +2,7 @@
 title: Best AI Image Generators Compared
 description: |
   Compare Midjourney, DALL-E, Flux and other image generation tools.
-date: 2026-06-25
+date: 2026-01-25
 updated: 2026-06-11
 author: AI Success Forum Team
 category: ai-tools
