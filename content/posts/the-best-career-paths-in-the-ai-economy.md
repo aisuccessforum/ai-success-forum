@@ -11,7 +11,7 @@ tags:
   - ai jobs
 featured: true
 coverImage: https://res.cloudinary.com/dtryodpcq/image/upload/v1781244332/27_emoxro.png
-draft: true
+draft: false
 ---
 # The Best Career Paths in the AI Economy
 
