@@ -11,7 +11,7 @@ tags:
   - linkedin growth
 featured: true
 coverImage: https://res.cloudinary.com/dtryodpcq/image/upload/v1781243857/24_lgnlad.png
-draft: true
+draft: false
 ---
 # How to Build a Personal Brand Using AI
 
