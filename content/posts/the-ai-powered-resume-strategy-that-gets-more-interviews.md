@@ -11,7 +11,7 @@ tags:
   - job search
 featured: true
 coverImage: https://res.cloudinary.com/dtryodpcq/image/upload/v1781243883/25_oom20l.png
-draft: true
+draft: false
 ---
 # The AI-Powered Resume Strategy That Gets More Interviews
 
