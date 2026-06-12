@@ -11,7 +11,7 @@ tags:
   - workplace trends
 featured: true
 coverImage: https://res.cloudinary.com/dtryodpcq/image/upload/v1781245082/30_oxj2vb.png
-draft: true
+draft: false
 ---
 # AI Is Not Taking Your Job-Someone Using AI Might
 
