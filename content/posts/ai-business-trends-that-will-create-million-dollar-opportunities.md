@@ -12,7 +12,7 @@ tags:
   - future of ai
 featured: true
 coverImage: https://res.cloudinary.com/dtryodpcq/image/upload/v1781249610/45_mo8dne.png
-draft: true
+draft: false
 ---
 # AI Business Trends That Will Create Million-Dollar Opportunities
 
