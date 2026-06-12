@@ -10,7 +10,8 @@ tags:
   - ai automation
   - service business
 featured: true
-draft: true
+coverImage: https://res.cloudinary.com/dtryodpcq/image/upload/v1781247899/38_lofvy5.png
+draft: false
 ---
 # AI Automation Services You Can Sell to Local Businesses
 
