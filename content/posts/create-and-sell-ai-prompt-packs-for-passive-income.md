@@ -11,7 +11,7 @@ tags:
   - digital products
 featured: true
 coverImage: https://res.cloudinary.com/dtryodpcq/image/upload/v1781248737/41_yurpe2.png
-draft: true
+draft: false
 ---
 # Create and Sell AI Prompt Packs for Passive Income
 
