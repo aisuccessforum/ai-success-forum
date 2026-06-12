@@ -11,7 +11,7 @@ tags:
   - freelance business
 featured: true
 coverImage: https://res.cloudinary.com/dtryodpcq/image/upload/v1781246960/33_wpung6.png
-draft: true
+draft: false
 ---
 # How to Start an AI Consulting Business Without Coding
 
