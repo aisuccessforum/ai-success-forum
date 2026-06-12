@@ -11,7 +11,7 @@ tags:
   - soft skills
 featured: true
 coverImage: https://res.cloudinary.com/dtryodpcq/image/upload/v1781242005/23_btqbfk.png
-draft: true
+draft: false
 ---
 # Future-Proof Your Career: Skills That AI Cannot Easily Replace
 
