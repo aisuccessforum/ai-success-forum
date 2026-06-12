@@ -11,7 +11,7 @@ tags:
   - ai workflow
 featured: true
 coverImage: https://res.cloudinary.com/dtryodpcq/image/upload/v1781256936/47_hux7gk.jpg
-draft: true
+draft: false
 ---
 
 
