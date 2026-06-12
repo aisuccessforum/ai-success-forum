@@ -11,7 +11,7 @@ tags:
   - business growth
 featured: true
 coverImage: https://res.cloudinary.com/dtryodpcq/image/upload/v1781248350/40_izvjix.png
-draft: true
+draft: false
 ---
 # How to Use AI for Lead Generation and Client Acquisition
 
