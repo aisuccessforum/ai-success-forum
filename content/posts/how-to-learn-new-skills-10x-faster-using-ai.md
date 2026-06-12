@@ -11,7 +11,7 @@ tags:
   - skill development
 featured: true
 coverImage: https://res.cloudinary.com/dtryodpcq/image/upload/v1781244265/26_jyjuqv.png
-draft: true
+draft: false
 ---
 # How to Learn New Skills 10x Faster Using AI
 
