@@ -11,7 +11,7 @@ tags:
   - ai business
 featured: true
 coverImage: https://res.cloudinary.com/dtryodpcq/image/upload/v1781246568/32_tp2w0w.png
-draft: true
+draft: false
 ---
 # 10 AI Side Hustles You Can Start This Weekend
 
