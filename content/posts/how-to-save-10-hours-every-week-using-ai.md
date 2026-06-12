@@ -11,7 +11,7 @@ tags:
   - time management
 featured: true
 coverImage: https://res.cloudinary.com/dtryodpcq/image/upload/v1781256911/46_msvssn.jpg
-draft: true
+draft: false
 ---
 
 
