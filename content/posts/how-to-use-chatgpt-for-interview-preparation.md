@@ -11,7 +11,7 @@ tags:
   - chatgpt career
 featured: false
 coverImage: https://res.cloudinary.com/dtryodpcq/image/upload/v1781241333/20_x6ho20.png
-draft: true
+draft: false
 ---
 # How to Use ChatGPT for Interview Preparation
 
