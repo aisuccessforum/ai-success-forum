@@ -11,7 +11,7 @@ tags:
   - ai workplace
 featured: true
 coverImage: https://res.cloudinary.com/dtryodpcq/image/upload/v1781244265/26_jyjuqv.png
-draft: true
+draft: false
 ---
 # AI for Working Professionals: A Practical Career Upgrade Guide
 
