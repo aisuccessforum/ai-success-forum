@@ -11,7 +11,7 @@ tags:
   - work efficiency
 featured: true
 coverImage: https://res.cloudinary.com/dtryodpcq/image/upload/v1781259214/48_izmgvf.png
-draft: true
+draft: false
 ---
 # 50 ChatGPT Prompts That Will Make You More Productive
 
