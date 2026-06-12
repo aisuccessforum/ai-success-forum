@@ -15,7 +15,7 @@ tags:
   - Systeme.io
 featured: true
 coverImage: https://res.cloudinary.com/dtryodpcq/image/upload/v1781246546/31_hqsykk.png
-draft: true
+draft: false
 ---
 # How to Make Money with AI in 2026: 15 Proven Methods
 
