@@ -10,7 +10,8 @@ tags:
   - digital products
   - passive income
 featured: true
-draft: true
+coverImage: https://res.cloudinary.com/dtryodpcq/image/upload/v1781247883/37_otszbs.png
+draft: false
 ---
 # How to Sell Digital Products Using AI
 
