@@ -11,7 +11,7 @@ tags:
   - chatgpt career
 featured: true
 coverImage: https://res.cloudinary.com/dtryodpcq/image/upload/v1781241418/21_snv4ue.png
-draft: true
+draft: false
 ---
 # Best AI Certifications Worth Taking in 2026
 
