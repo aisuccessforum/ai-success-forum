@@ -11,7 +11,7 @@ tags:
   - ai entrepreneur
 featured: true
 coverImage: https://res.cloudinary.com/dtryodpcq/image/upload/v1781247401/35_gvjggf.png
-draft: true
+draft: false
 ---
 # How to Build a One-Person AI Business
 
