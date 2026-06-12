@@ -11,7 +11,7 @@ tags:
   - workplace success
 featured: true
 coverImage: https://res.cloudinary.com/dtryodpcq/image/upload/v1781241980/22_zbyama.png
-draft: true
+draft: false
 ---
 # How AI Can Help You Get Promoted Faster
 
