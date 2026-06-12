@@ -11,7 +11,7 @@ tags:
   - ai tools
 featured: true
 coverImage: https://res.cloudinary.com/dtryodpcq/image/upload/v1781246992/34_lqscjx.png
-draft: true
+draft: false
 ---
 # AI Affiliate Marketing: The Complete Beginner's Guide
 
