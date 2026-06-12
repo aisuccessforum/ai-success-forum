@@ -11,7 +11,7 @@ tags:
   - skill stack
 featured: true
 coverImage: https://res.cloudinary.com/dtryodpcq/image/upload/v1781244743/29_q8upw3.png
-draft: true
+draft: false
 ---
 # How to Build a High-Income Skill Stack with AI
 
