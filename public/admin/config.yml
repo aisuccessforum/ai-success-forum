@@ -40,6 +40,7 @@ collections:
           - { label: Motivation, value: motivation }
           - { label: Courses, value: courses }
           - { label: Laptops, value: laptops }
+          - { label: AI News, value: ai-news }
       - { label: Tags, name: tags, widget: list, default: [] }
       - { label: Featured, name: featured, widget: boolean, default: false }
       - { label: Cover Image, name: coverImage, widget: image, required: false }

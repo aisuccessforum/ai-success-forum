@@ -54,5 +54,13 @@
     "icon": "💻",
     "color": "text-pink-400",
     "accentColor": "#FF2DD4"
+  },
+  {
+    "slug": "ai-news",
+    "name": "AI News",
+    "description": "Breaking news, latest developments, and updates from the world of artificial intelligence.",
+    "icon": "📰",
+    "color": "text-red-400",
+    "accentColor": "#FF4444"
   }
 ]
