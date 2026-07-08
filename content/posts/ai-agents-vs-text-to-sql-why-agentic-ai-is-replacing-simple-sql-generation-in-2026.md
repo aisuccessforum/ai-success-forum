@@ -19,7 +19,7 @@ tags:
   - natural language to SQL
   - AI data agents
 featured: true
-coverImage: https://res.cloudinary.com/dtryodpcq/image/upload/v1783508892/intellig3ence_okqtsr.png
+coverImage: https://res.cloudinary.com/dtryodpcq/image/upload/v1783509365/intellig3ence_daoqk4.png
 draft: false
 ---
 # AI Agents Are Replacing Simple Text-to-SQL
