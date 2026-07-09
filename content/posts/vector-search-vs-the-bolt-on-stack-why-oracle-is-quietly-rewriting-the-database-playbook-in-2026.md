@@ -20,7 +20,7 @@ tags:
   - Oracle26ai
 featured: true
 coverImage: https://res.cloudinary.com/dtryodpcq/image/upload/v1783608591/oracle_nbl2wd.png
-draft: true
+draft: false
 ---
 
 🗄️ **AI News**
