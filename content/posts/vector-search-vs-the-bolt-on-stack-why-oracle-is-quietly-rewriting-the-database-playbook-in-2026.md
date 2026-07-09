@@ -69,12 +69,18 @@ For a CTO weighing infrastructure decisions, that's not a marginal improvement. 
  
 A few of the capabilities matter more than the rest for anyone actually building on top of this release:
  
-1. **Unified Hybrid Vector Search.** A single query can combine vector similarity with relational, text, JSON, spatial, and graph predicates, retrieving mixed-media results (PDFs, images, video, table rows) in one pass.
-2. **Select AI Agent.** Agents become objects you define and govern inside the Autonomous AI Database itself, using in-database tools, REST calls, or Model Context Protocol (MCP) servers, rather than living in a separate orchestration layer.
-3. **JSON-Relational Duality.** The same underlying data can be read and written as either relational rows or JSON documents, with one source of truth instead of two representations to keep in sync.
-4. **Property Graph queries in standard SQL.** Relationship analysis (the kind previously requiring a dedicated graph database) now runs as native SQL/PGQ queries over existing data.
-5. **True Cache.** An application-transparent, transactionally consistent read cache that behaves like a database-aware Redis, cutting read latency without giving up full SQL semantics.
-6. **Private AI Services Container.** Organizations can run embedding and inference workloads privately, without routing sensitive data to a third-party AI provider, a detail that matters enormously for regulated industries.
+1. **Unified Hybrid Vector Search.** 
+A single query can combine vector similarity with relational, text, JSON, spatial, and graph predicates, retrieving mixed-media results (PDFs, images, video, table rows) in one pass.
+2. **Select AI Agent.** 
+Agents become objects you define and govern inside the Autonomous AI Database itself, using in-database tools, REST calls, or Model Context Protocol (MCP) servers, rather than living in a separate orchestration layer.
+3. **JSON-Relational Duality.** 
+The same underlying data can be read and written as either relational rows or JSON documents, with one source of truth instead of two representations to keep in sync.
+4. **Property Graph queries in standard SQL.** 
+Relationship analysis (the kind previously requiring a dedicated graph database) now runs as native SQL/PGQ queries over existing data.
+5. **True Cache.** 
+An application-transparent, transactionally consistent read cache that behaves like a database-aware Redis, cutting read latency without giving up full SQL semantics.
+6. **Private AI Services Container.** 
+Organizations can run embedding and inference workloads privately, without routing sensitive data to a third-party AI provider, a detail that matters enormously for regulated industries.
 Notice the shared logic across all six: each one takes a job that used to require a separate specialized system and pulls it back inside the database boundary.
  
 ---
