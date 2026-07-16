@@ -13,7 +13,7 @@ tags:
   - '"ai career"'
   - '"certifications"'
 featured: false
-coverImage: https://res.cloudinary.com/dtryodpcq/image/upload/v1784193174/courses_orn9yd.png
+coverImage: https://res.cloudinary.com/dtryodpcq/image/upload/v1784193399/courses_wul2xn.png
 draft: false
 ---
 
