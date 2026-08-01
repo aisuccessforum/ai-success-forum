@@ -1,6 +1,6 @@
 backend:
   name: github
-  repo: aisuccessforum/analytics
+  repo: aisuccessforum/ai-success-forum
   branch: main
   base_url: https://aisuccessforum.online
   auth_endpoint: callback
